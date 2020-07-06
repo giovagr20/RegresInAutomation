@@ -6,6 +6,8 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import in.regres.models.PathModels;
 import in.regres.tasks.browser.NavigateRegresinTask;
+import in.regres.tasks.services.GetRegresinTask;
+import in.regres.tasks.services.PostRegresinTask;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.rest.abilities.CallAnApi;
 import net.thucydides.core.annotations.Managed;
@@ -28,5 +30,18 @@ public class RestServicesRegresinStepDefinitions {
         userRegresin.attemptsTo(NavigateRegresinTask.intoHome(hisBrowser,
                 PathModels.getURL(), userRegresin)
         );
+    }
+
+    @When("^user POST URL$")
+    public void userPOSTURL() {
+        userRegresin.attemptsTo(PostRegresinTask.postRegresinTask(hisBrowser,
+                PathModels.getURL(), userRegresin));
+    }
+
+
+    @Then("^user GET new URL$")
+    public void userGETNewURL() {
+        userRegresin.attemptsTo(GetRegresinTask.getRegresinTask(hisBrowser,
+                PathModels.getURL(), userRegresin));
     }
 }

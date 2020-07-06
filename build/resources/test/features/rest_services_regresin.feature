@@ -7,3 +7,5 @@ Feature: In regres.in i want to request
 
   Scenario: GET services from regresin
     Given user GET URL
+    When user POST URL
+    Then user GET new URL

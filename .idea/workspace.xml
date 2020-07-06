@@ -2,23 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5fefa79-3295-443f-a897-992e6dd7fede" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/regres/models/PathModels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/regres/tasks/services/GetRegresinTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/regres/tasks/services/PostRegresinTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/in/regres/runners/RestServicesRegresinRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/in/regres/stepdefinitions/RestServicesRegresinStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/rest_services_regresin.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/In#20regres.in#20i#20want#20to#20request.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/In#20regres.in#20i#20want#20to#20request.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/in.regres.runners.RestServicesRegresinRunner.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/in.regres.runners.RestServicesRegresinRunner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/In regres.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/In regres.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/in.regres.runners.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/in.regres.runners.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/features/rest_services_regresin.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/features/rest_services_regresin.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-In#20regres.in#20i#20want#20to#20request.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-In#20regres.in#20i#20want#20to#20request.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-in.regres.runners.RestServicesRegresinRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-in.regres.runners.RestServicesRegresinRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/in/regres/tasks/services/GetRegresinTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in/regres/tasks/services/GetRegresinTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/in/regres/tasks/services/PostRegresinTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in/regres/tasks/services/PostRegresinTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/in/regres/stepdefinitions/RestServicesRegresinStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/in/regres/stepdefinitions/RestServicesRegresinStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/rest_services_regresin.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/rest_services_regresin.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/0004653ea23d2a081148f917e5d25a9768dc6876ba83033eef1570ff9c547dc9.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/0004653ea23d2a081148f917e5d25a9768dc6876ba83033eef1570ff9c547dc9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/1eae79cbb408356bb380167ac5bde99c40c732d43b64c991a1be6272d5895ca4.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/1eae79cbb408356bb380167ac5bde99c40c732d43b64c991a1be6272d5895ca4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/34ab88f507826cea1c8f4b11b9fd2b0a8b0c14024d8b2c7958202b4e4afab8fc.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/34ab88f507826cea1c8f4b11b9fd2b0a8b0c14024d8b2c7958202b4e4afab8fc.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/87884a0ed7c2116db422cd9fffbb1aa613ea8d6ca7355e81eaef5bd109fe71c9.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/87884a0ed7c2116db422cd9fffbb1aa613ea8d6ca7355e81eaef5bd109fe71c9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/87884a0ed7c2116db422cd9fffbb1aa613ea8d6ca7355e81eaef5bd109fe71c9.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/87884a0ed7c2116db422cd9fffbb1aa613ea8d6ca7355e81eaef5bd109fe71c9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-87884a0ed7c2116db422cd9fffbb1aa613ea8d6ca7355e81eaef5bd109fe71c9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-87884a0ed7c2116db422cd9fffbb1aa613ea8d6ca7355e81eaef5bd109fe71c9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a521fe3eec08602ec457e9ee4407f986a997795745f1b861b93cf3ad9afda434.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/a521fe3eec08602ec457e9ee4407f986a997795745f1b861b93cf3ad9afda434.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/d3cd72d7dc7d6c46e7a1bfc192da960b118923885ba28bf83c60d8fde21228ea.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/d3cd72d7dc7d6c46e7a1bfc192da960b118923885ba28bf83c60d8fde21228ea.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/d3cd72d7dc7d6c46e7a1bfc192da960b118923885ba28bf83c60d8fde21228ea.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/d3cd72d7dc7d6c46e7a1bfc192da960b118923885ba28bf83c60d8fde21228ea.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/f1a9a3c839818917469cfc396dcf51f3a7fc9104a752d231fb81a8bea22db720.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/f1a9a3c839818917469cfc396dcf51f3a7fc9104a752d231fb81a8bea22db720.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/summary.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,29 +141,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1460" y="4" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594045918828">
+    <state x="1460" y="4" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594047073546">
       <screen x="1366" y="-31" width="1280" height="760" />
     </state>
-    <state x="1460" y="4" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.-31.1280.760@1366.-31.1280.760" timestamp="1594045918828" />
-    <state x="1811" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1594045085574">
+    <state x="1460" y="4" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.-31.1280.760@1366.-31.1280.760" timestamp="1594047073546" />
+    <state x="1811" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1594047277519">
       <screen x="1366" y="-31" width="1280" height="760" />
     </state>
-    <state x="1811" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.-31.1280.760@1366.-31.1280.760" timestamp="1594045085574" />
-    <state width="1235" height="189" key="GridCell.Tab.0.bottom" timestamp="1594046007158">
+    <state x="1811" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.-31.1280.760@1366.-31.1280.760" timestamp="1594047277519" />
+    <state width="1235" height="189" key="GridCell.Tab.0.bottom" timestamp="1594047616812">
       <screen x="1366" y="-31" width="1280" height="760" />
     </state>
-    <state width="1235" height="189" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-31.1280.760@1366.-31.1280.760" timestamp="1594046007158" />
-    <state width="1235" height="189" key="GridCell.Tab.0.center" timestamp="1594046007158">
+    <state width="1235" height="189" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-31.1280.760@1366.-31.1280.760" timestamp="1594047616812" />
+    <state width="1235" height="189" key="GridCell.Tab.0.center" timestamp="1594047616812">
       <screen x="1366" y="-31" width="1280" height="760" />
     </state>
-    <state width="1235" height="189" key="GridCell.Tab.0.center/0.0.1366.728/1366.-31.1280.760@1366.-31.1280.760" timestamp="1594046007158" />
-    <state width="1235" height="189" key="GridCell.Tab.0.left" timestamp="1594046007158">
+    <state width="1235" height="189" key="GridCell.Tab.0.center/0.0.1366.728/1366.-31.1280.760@1366.-31.1280.760" timestamp="1594047616812" />
+    <state width="1235" height="189" key="GridCell.Tab.0.left" timestamp="1594047616812">
       <screen x="1366" y="-31" width="1280" height="760" />
     </state>
-    <state width="1235" height="189" key="GridCell.Tab.0.left/0.0.1366.728/1366.-31.1280.760@1366.-31.1280.760" timestamp="1594046007158" />
-    <state width="1235" height="189" key="GridCell.Tab.0.right" timestamp="1594046007158">
+    <state width="1235" height="189" key="GridCell.Tab.0.left/0.0.1366.728/1366.-31.1280.760@1366.-31.1280.760" timestamp="1594047616812" />
+    <state width="1235" height="189" key="GridCell.Tab.0.right" timestamp="1594047616812">
       <screen x="1366" y="-31" width="1280" height="760" />
     </state>
-    <state width="1235" height="189" key="GridCell.Tab.0.right/0.0.1366.728/1366.-31.1280.760@1366.-31.1280.760" timestamp="1594046007158" />
+    <state width="1235" height="189" key="GridCell.Tab.0.right/0.0.1366.728/1366.-31.1280.760@1366.-31.1280.760" timestamp="1594047616812" />
   </component>
 </project>

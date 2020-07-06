@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="In regres.in i want to request" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-06T14:33:31" hostname="DESKTOP-1SCGRM1" time="8.238">
+<testsuite name="In regres.in i want to request" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-06T15:00:23" hostname="DESKTOP-1SCGRM1" time="10.016">
   <properties/>
-  <testcase name="GET services from regresin" classname="In regres.in i want to request" time="8.238"/>
+  <testcase name="GET services from regresin" classname="In regres.in i want to request" time="10.016"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
