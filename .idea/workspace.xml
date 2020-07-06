@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5fefa79-3295-443f-a897-992e6dd7fede" name="Default Changelist" comment="" />
+    <list default="true" id="f5fefa79-3295-443f-a897-992e6dd7fede" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/regres/models/PathModels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/regres/tasks/services/GetRegresinTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/regres/tasks/services/PostRegresinTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/in/regres/runners/RestServicesRegresinRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/in/regres/stepdefinitions/RestServicesRegresinStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/rest_services_regresin.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +30,29 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Substep Feature" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eJcc56MuykqIUXlgjbeh5nLHW9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,6 +60,35 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RestServicesRegresinRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;in.regres.runners.RestServicesRegresinRunner&quot; --info" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+            <option value=":aggregate" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RestServicesRegresinRunner" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -45,5 +114,31 @@
       <updated>1594043212403</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1460" y="4" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594045918828">
+      <screen x="1366" y="-31" width="1280" height="760" />
+    </state>
+    <state x="1460" y="4" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.-31.1280.760@1366.-31.1280.760" timestamp="1594045918828" />
+    <state x="1811" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1594045085574">
+      <screen x="1366" y="-31" width="1280" height="760" />
+    </state>
+    <state x="1811" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.-31.1280.760@1366.-31.1280.760" timestamp="1594045085574" />
+    <state width="1235" height="189" key="GridCell.Tab.0.bottom" timestamp="1594046007158">
+      <screen x="1366" y="-31" width="1280" height="760" />
+    </state>
+    <state width="1235" height="189" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-31.1280.760@1366.-31.1280.760" timestamp="1594046007158" />
+    <state width="1235" height="189" key="GridCell.Tab.0.center" timestamp="1594046007158">
+      <screen x="1366" y="-31" width="1280" height="760" />
+    </state>
+    <state width="1235" height="189" key="GridCell.Tab.0.center/0.0.1366.728/1366.-31.1280.760@1366.-31.1280.760" timestamp="1594046007158" />
+    <state width="1235" height="189" key="GridCell.Tab.0.left" timestamp="1594046007158">
+      <screen x="1366" y="-31" width="1280" height="760" />
+    </state>
+    <state width="1235" height="189" key="GridCell.Tab.0.left/0.0.1366.728/1366.-31.1280.760@1366.-31.1280.760" timestamp="1594046007158" />
+    <state width="1235" height="189" key="GridCell.Tab.0.right" timestamp="1594046007158">
+      <screen x="1366" y="-31" width="1280" height="760" />
+    </state>
+    <state width="1235" height="189" key="GridCell.Tab.0.right/0.0.1366.728/1366.-31.1280.760@1366.-31.1280.760" timestamp="1594046007158" />
   </component>
 </project>
